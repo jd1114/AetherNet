@@ -1,0 +1,13 @@
+{
+  "Author": "axel",
+  "Name": "AetherNet",
+  "Punchline": "Let others see you as you see yourself.",
+  "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
+  "InternalName": "mareSynchronos",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "customization"
+  ],
+  "IconUrl": "",
+  "RepoUrl": "https://github.com/jd1114/AetherNet"
+}
