@@ -1,4 +1,4 @@
-[
+her[
     {
         "Author": "axle",
         "Name": "AetherNet",
@@ -7,7 +7,7 @@
         "TestingAssemblyVersion": "1.0.5.1",
         "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
         "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/jd1114/MareClient",
+        "RepoUrl": "https://github.com/jd1114/AetherNet",
         "Tags": [
           "customization"
         ],
