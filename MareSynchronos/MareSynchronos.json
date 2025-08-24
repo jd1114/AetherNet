@@ -19,8 +19,8 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "CanUnloadAsync": true,
-        "DownloadLinkInstall": "https://github.com/jd1114/AetherNet/raw/refs/heads/main/LoporritSync-v1.0.5.1.zip",
-        "DownloadLinkTesting": "https://github.com/jd1114/AetherNet/raw/refs/heads/main/LoporritSync-v1.0.5.1.zip",
-        "DownloadLinkUpdate": "https://github.com/jd1114/AetherNet/raw/refs/heads/main/LoporritSync-v1.0.5.1.zip"
+        "DownloadLinkInstall": "https://github.com/jd1114/AetherNet/raw/refs/heads/main/MareSynchronos.zip",
+        "DownloadLinkTesting": "https://github.com/jd1114/AetherNet/raw/refs/heads/main/MareSynchronos.zip",
+        "DownloadLinkUpdate": "https://github.com/jd1114/AetherNet/raw/refs/heads/main/MareSynchronos.zip"
     }
 ]
